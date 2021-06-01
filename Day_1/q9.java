@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.Math;
-public class Main 
+public class q9
 {
 
     int profit(int arr[],int n)
@@ -20,7 +20,7 @@ public class Main
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
-		Main obj=new Main();
+		q9 obj=new q9();
 		System.out.println("Enter the total number of elements ");
 		int n=sc.nextInt();
 		int arr[] = new int[n];
