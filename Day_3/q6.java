@@ -1,3 +1,13 @@
+/* A repdigit is a positive number composed out of the same digit. Write a program that takes an integer and returns whether it's a repdigit or not.
+
+  Examples
+    (66) ➞ true
+
+    (0) ➞ true
+
+    (-11) ➞ false
+*/
+
 import java.util.*;
 public class q6
 {
