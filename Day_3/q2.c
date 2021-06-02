@@ -1,3 +1,11 @@
+/* Create a singly linked list. Swap every two adjacent nodes and return the reordered list.
+  Expamples:
+  Input: 1->2->3->4
+  Output: 2->1->4->3
+  Input:  1
+  Output: 1
+*/  
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node
