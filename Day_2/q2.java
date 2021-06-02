@@ -1,5 +1,5 @@
 import java.util.*;
-class q12
+class q2
 {
     String sort_String(String str) 
     {
@@ -37,7 +37,7 @@ class q12
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
-		q12 obj = new q12();
+		q2 obj = new q2();
 		System.out.println("Enter the String");
 		String str=sc.nextLine();
 		System.out.println("The final String is : " + obj.sort_String(str));
