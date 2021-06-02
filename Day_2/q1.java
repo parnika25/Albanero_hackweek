@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class q11
+public class q1
 {
 	static String check_String(String str)
 	{
