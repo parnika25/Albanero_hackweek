@@ -41,6 +41,6 @@ public class q8
 		q8 obj = new q8();
 		System.out.println("Enter the 7-bit code");
 		String str=sc.nextLine();
-		System.out.println("The eiight-bit code is: " +obj.check_parity_bit(str));
+		System.out.println("The eight-bit code is: " +obj.check_parity_bit(str));
 	}
 }
