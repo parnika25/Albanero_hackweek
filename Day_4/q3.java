@@ -6,7 +6,7 @@
 */
 
 import java.util.*;
-public class q3
+public class Main
 {
     public static void main(String[] args) 
 	{
@@ -22,7 +22,7 @@ public class q3
 		System.out.println("The array after modification :");
 		for(int i=0;i<n;i++)
         {
-             arr[i] = (arr[i].substring(0, 1)).toUpperCase() + arr[i].substring(1, arr[i].length());
+             arr[i] = (arr[i].substring(0, 1)).toUpperCase() + arr[i].substring(1, arr[i].length()).toLowerCase();
         }
 		for(int i=0;i<n;i++)
             System.out.print(arr[i] + " ");
