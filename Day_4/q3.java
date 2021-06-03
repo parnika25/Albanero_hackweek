@@ -1,8 +1,8 @@
 /*Write a program that takes an array of names and returns an array where only the first letter of each name is capitalized.
 
   Examples
-    (["mavis", "senaida", "letty"]) ➞ ["Mavis", "Senaida", "Letty"]
-    (["Slyvia", "Kristal", "Sharilyn", "Calista"]) ➞ ["Slyvia", "Kristal", "Sharilyn", "Calista"]
+    (["MAVIS", "senaida", "letty"]) ➞ ["Mavis", "Senaida", "Letty"]
+    (["samuel", "MABELLE", "letitia", "meridith"]) ➞ ["Samuel", "Mabelle", "Letitia", "Meridith"]
 */
 
 import java.util.*;
