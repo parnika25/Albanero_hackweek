@@ -114,9 +114,9 @@ int main()
             break;
             case 3:
             if(palindrome(&start))
-                printf("The List is palindrome.\n");
+                printf("True \n");
 	        else
-	            printf("The List is not a palindrome.\n");
+	            printf("False \n");
 	        break;
             case 0:
             printf("EXITING\n");
